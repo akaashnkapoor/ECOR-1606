@@ -1,7 +1,7 @@
 // Creating a simping Reading File using the "Fin" Object. 
 //
 // Name: Akaash Kapoor
-// Student Number: 101112895
+
 
 #include <iostream>
 #include <cmath>
